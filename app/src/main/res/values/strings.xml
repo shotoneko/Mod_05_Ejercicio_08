@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ejercicio número 07</string>
+    <string name="app_name">Ejercicio número 08</string>
     <string name="welcome">Bienvenido a Android y JetPack Compose</string>
     <string name="tf_nombre">Escribe aquí tu nombre</string>
     <string name="btn_mostrar">Mostrar imagen</string>
