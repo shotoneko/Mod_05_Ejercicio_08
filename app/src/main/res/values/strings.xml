@@ -5,4 +5,15 @@
     <string name="btn_mostrar">Mostrar imagen</string>
     <string name="image_description">Un paisaje otoñal en el sur de Chile?</string>
     <string name="btn_ocultar">Ocultar Imagen</string>
+    <string name="kotlin">"Kotlin"</string>
+    <string name="swift">"Swift"</string>
+    <string name="ios">"iOS"</string>
+    <string name="favourite">"Favourite"</string>
+    <string name="advanced_architecture_android">"Advanced Architecture Android"</string>
+    <string name="kotlin_apprentice">"Kotlin Apprentice"</string>
+    <string name="kotlin_coroutines">"Kotlin Coroutines"</string>
+    <string name="kotlin_combine">"Combine Asynchronous Programming with Swift"</string>
+    <string name="android_core">"Core Data With by Tutorials"</string>
+    <string name="ios_aprentice">Ios Apprentice</string>
+
 </resources>
